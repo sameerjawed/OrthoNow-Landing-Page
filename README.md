@@ -18,7 +18,7 @@ https://orthonow.alzrix.com/
 
 ## GitHub Repository
 
-(Current Repository)
+https://github.com/sameerjawed/OrthoNow-Landing-Page
 
 ---
 
@@ -172,13 +172,37 @@ Implemented Events
 
 Homepage
 
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234831.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234905.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234958.png
+
 GTM Preview
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20235139.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234711.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234725.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20235152.png
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-03%20000750.png
+
+
 
 GA4 Realtime
 
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234516.png
+
 Data Layer
 
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-02%20234641.png
+
 PageSpeed
+
+https://github.com/sameerjawed/OrthoNow-Landing-Page/blob/main/screenshot/Screenshot%202026-07-03%20020208.png
 
 ---
 
